@@ -1,0 +1,5 @@
+[LoanManagementSystem]
+host=localhost,
+database=LoanManagementSystem
+user=root
+password=Naveen_mysql29
